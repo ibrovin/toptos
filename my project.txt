@@ -1,0 +1,21 @@
+if you are sending anything to your github, you must create folder, we call it repositories
+the namw doesnt really matter,it advisable to use same name for proper understanding
+
+HOW TO IMPORT OR CLONE A DIRECTORY FROM GITHUB TO LOCAL MACHINE OR LOCAL SERVER
+
+anytime you are cloning a new repo, it is advisable to clone wsith personal access token. account you must have personal access token
+
+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 my token
+
+
+for me to clone or import a folder to my local machine, use command call (git clone https://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@github.com/ibrovin/toptos.git
+
+
+To change directory cd
+
+to create dir. mkdir the name of d dir
+
+
+HOW TO MAKE A FILE INSIDE THE DIR
+
+use command touch name of the file then enter
